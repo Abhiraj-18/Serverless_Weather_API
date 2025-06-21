@@ -32,3 +32,9 @@ SimpleWeatherApp?city=Bengaluru
 ## 📂 Project Files
 - `lambda_function.py` - Core logic
 - `requirements.txt` - Python dependencies
+
+## 📹 Project Deployment Video
+
+▶️ [Click here to watch/download the demo](deployment_demo.mp4)
+
+📄 [Download Full Project Report](./Serverless_Weather_API_Report.pdf)
