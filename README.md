@@ -1,4 +1,7 @@
 # 🌦️ Serverless Weather API
+![AWS](https://img.shields.io/badge/Deployed-AWS_Lambda-orange)
+![API](https://img.shields.io/badge/API-Live-blue)
+![Python](https://img.shields.io/badge/Language-Python-blue)
 
 A serverless weather forecasting API built using AWS Lambda, API Gateway, and OpenWeatherMap.
 
