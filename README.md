@@ -6,7 +6,7 @@ A serverless weather forecasting API built using AWS Lambda, API Gateway, and Op
 Access the API by replacing `your-api-id` in:
 
 
-https://your-api-id.execute-api.us-east-1.amazonaws.com/SimpleWeatherApp?city=Bengaluru
+https://4pz56l2tlk.execute-api.us-east-1.amazonaws.com/SimpleWeatherApp?city=bengaluru
 
 
 ## ⚙️ Features
